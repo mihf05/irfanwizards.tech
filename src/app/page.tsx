@@ -137,7 +137,7 @@ export default function Home() {
           <MagicCard className="flex-1">
             <CardHeader>
               <div className="pb-3">
-                <Badge>10000 BDT per month</Badge>
+                <Badge>250 USD per month</Badge>
               </div>
               <CardTitle>One request at a time</CardTitle>
               <CardDescription className="max-w-md">
@@ -156,7 +156,7 @@ export default function Home() {
             </CardContent>
             <CardFooter className="flex flex-col gap-y-2">
               <Button className="w-full" asChild>
-                <a href="mailto:mdirfanhasanfahim@gmail.com">
+                <a href="mailto:contact@irfanwizards.tech">
                   Subscribe
                 </a>
               </Button>
@@ -169,7 +169,7 @@ export default function Home() {
           <MagicCard className="flex-1">
             <CardHeader>
               <div className="pb-3">
-                <Badge>Requires budget of 30000+ BDT</Badge>
+                <Badge>Requires budget of 500+ USD</Badge>
               </div>
               <CardTitle>Bring idea to life</CardTitle>
               <CardDescription className="max-w-md">
@@ -187,7 +187,7 @@ export default function Home() {
             </CardContent>
             <CardFooter className="flex flex-col gap-y-2">
               <Button className="w-full" asChild>
-                <a href="mailto:mdirfanhasanfahim@gmail.com">Write me an email</a>
+                <a href="mailto:contact@irfanwizards.tech">Write me an email</a>
               </Button>
               <div className="text-xs text-muted-foreground">
                 Delivery time depends on the scope
@@ -225,7 +225,7 @@ export default function Home() {
 
           <div>
             If you have any outstanding concerns or questions, feel free to{" "}
-            <a href="mailto:mdirfanhasanfahim@gmail.com" className="underline">
+            <a href="mailto:contact@irfanwizards.tech" className="underline">
               send me an email
             </a>
             .
