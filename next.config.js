@@ -6,7 +6,7 @@ const nextConfig = {
   assetPrefix: isProd ? '/irfanwizards.tech/' : '',
   basePath: isProd ? '/irfanwizards.tech' : '',
   images: {
-    unoptimized: true // Disable image optimization for GitHub Pages
+    unoptimized: true
   },
   // other configurations...
 }
